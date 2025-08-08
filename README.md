@@ -2,7 +2,7 @@
 
 Soy Isaac Urrutia-Alfaro, estudiante de la licenciatura en ciencias de la computación. En esta cuenta encontrarás mis proyectos de producción profesional, colaboraciones laborales y publicaciones académicas.
 
-Nota : esta es mi cuenta profesional. Para ver mis experimentos, retos y proyectos personales, visita mi perfil [UrriIsa](https://github.com/UrriIsa)
+**Nota :** esta es mi cuenta profesional. Para ver mis experimentos, retos y proyectos personales, visita mi perfil [UrriIsa](https://github.com/UrriIsa)
 
 ## Más sobre mí: 
 
