@@ -10,7 +10,7 @@ Nota : esta es mi cuenta profesional. Para ver mis experimentos, retos y proyect
   <a href="https://www.linkedin.com/in/isaac-urrutia-alfaro/"> 
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> 
   </a> 
-  <a href="https://www.researchgate.net/profile/Isaac_Urrutia" target="_blank">
+  <a href="https://www.researchgate.net/profile/Isaac-Urrutia-Alfaro" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/>
   </a>
 
